@@ -25,7 +25,8 @@ public class ShapeApp {
                 System.out.println( "new area: " + sList.get(i).getArea() );
                 System.out.println( "new perimeter: " + sList.get(i).getPerimeter() );
             }
-        }
-        
+        }        
     }
 }
+    
+
